@@ -22,7 +22,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/congcongguoke3192/Vulb_web_test.git
+git clone https://github.com/congcongguoke3192/Vuln_web_test.git
 cd Vulntest
 ```
 
